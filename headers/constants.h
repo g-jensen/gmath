@@ -1,0 +1,4 @@
+#define G_PI 3.14159265
+#define G_E  2.71828182
+#define G_SQRT2 1.41421356
+#define G_LN10 2.30258509
